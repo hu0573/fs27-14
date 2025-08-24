@@ -162,16 +162,16 @@ body {
     justify-content: center;
     width: 90%;
   }
-  .pric-card {
+  .price-card {
     width: 100%;
   }
-  .pric-card:first-child {
+  .price-card:first-child {
     margin-right: 0;
   }
-  .pric-card:last-child {
+  .price-card:last-child {
     margin-top: 0;
   }
-  .pric-card:not(:last-child) {
+  .price-card:not(:last-child) {
     margin-bottom: 30px;
   }
 }/*# sourceMappingURL=style.css.map */
